@@ -1,0 +1,1360 @@
+[
+  {
+    "id": 1,
+    "symbol": "/iː/",
+    "category": "long_vowel",
+    "categoryName": "长元音",
+    "group": "元音",
+    "audio": "assets/vowel/long_vowel_i.aac",
+    "video": "assets/vowel_video/i.mp4",
+    "poster": "assets/vowel_video/i.jpg",
+    "examples": [
+      {
+        "word": "bee",
+        "ipa": "/biː/",
+        "meaning": "n. 蜜蜂",
+        "audio": "assets/words/bee.aac"
+      },
+      {
+        "word": "we",
+        "ipa": "/wiː/",
+        "meaning": "pron. 我们",
+        "audio": "assets/words/we.aac"
+      },
+      {
+        "word": "read",
+        "ipa": "/riːd/",
+        "meaning": "vt. 阅读",
+        "audio": "assets/words/read.aac"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "symbol": "/ɜː/",
+    "category": "long_vowel",
+    "categoryName": "长元音",
+    "group": "元音",
+    "audio": "assets/vowel/long_vowel_3.aac",
+    "video": "assets/vowel_video/long_3.mp4",
+    "poster": "assets/vowel_video/long_3.jpg",
+    "examples": [
+      {
+        "word": "bird",
+        "ipa": "/bɜːd/",
+        "meaning": "n. 鸟",
+        "audio": "assets/words/bird.aac"
+      },
+      {
+        "word": "word",
+        "ipa": "/wɜːd/",
+        "meaning": "n. 单词",
+        "audio": "assets/words/word.aac"
+      },
+      {
+        "word": "work",
+        "ipa": "/wɜːk/",
+        "meaning": "n. 工作",
+        "audio": "assets/words/work.aac"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "symbol": "/ɑː/",
+    "category": "long_vowel",
+    "categoryName": "长元音",
+    "group": "元音",
+    "audio": "assets/vowel/long_vowel_2.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_11.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_11.jpg",
+    "examples": [
+      {
+        "word": "mark",
+        "ipa": "/mɑːk/",
+        "meaning": "n. 标志",
+        "audio": "assets/words/mark.aac"
+      },
+      {
+        "word": "shark",
+        "ipa": "/ʃɑːk/",
+        "meaning": "n. 鲨鱼",
+        "audio": "assets/words/shark.aac"
+      },
+      {
+        "word": "father",
+        "ipa": "/fɑːðə/",
+        "meaning": "n. 父亲",
+        "audio": "assets/words/father.aac"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "symbol": "/ɔː/",
+    "category": "long_vowel",
+    "categoryName": "长元音",
+    "group": "元音",
+    "audio": "assets/vowel/long_vowel_4.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_08.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_08.jpg",
+    "examples": [
+      {
+        "word": "caught",
+        "ipa": "/kɔːt/",
+        "meaning": "v. 捕捉",
+        "audio": "assets/words/caught.aac"
+      },
+      {
+        "word": "walk",
+        "ipa": "/wɔːk/",
+        "meaning": "n. 步行",
+        "audio": "assets/words/walk.aac"
+      },
+      {
+        "word": "board",
+        "ipa": "/bɔːd/",
+        "meaning": "n.甲板",
+        "audio": "assets/words/board.aac"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "symbol": "/uː/",
+    "category": "long_vowel",
+    "categoryName": "长元音",
+    "group": "元音",
+    "audio": "assets/vowel/long_vowel_u.aac",
+    "video": "assets/vowel_video/long_u.mp4",
+    "poster": "assets/vowel_video/long_u.jpg",
+    "examples": [
+      {
+        "word": "cool",
+        "ipa": "/kuːl/",
+        "meaning": "adj. 凉爽的",
+        "audio": "assets/words/cool.aac"
+      },
+      {
+        "word": "rude",
+        "ipa": "/ruːd/",
+        "meaning": "adj. 粗鲁的",
+        "audio": "assets/words/rude.aac"
+      },
+      {
+        "word": "tooth",
+        "ipa": "/tuːθ/",
+        "meaning": "n. 牙齿",
+        "audio": "assets/words/tooth.aac"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "symbol": "/ɪ/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_I.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_02.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_02.jpg",
+    "examples": [
+      {
+        "word": "little",
+        "ipa": "/lɪtl/",
+        "meaning": "adj. 很少的",
+        "audio": "assets/words/little.aac"
+      },
+      {
+        "word": "sit",
+        "ipa": "/sɪt/",
+        "meaning": "vi. 坐",
+        "audio": "assets/words/sit.aac"
+      },
+      {
+        "word": "fish",
+        "ipa": "/fɪʃ/",
+        "meaning": "n. 鱼",
+        "audio": "assets/words/fish.aac"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "symbol": "/e/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_e.aac",
+    "video": "assets/vowel_video/short_e.mp4",
+    "poster": "assets/vowel_video/short_e.jpg",
+    "examples": [
+      {
+        "word": "bed",
+        "ipa": "/bed/",
+        "meaning": "n. 床",
+        "audio": "assets/words/bed.aac"
+      },
+      {
+        "word": "red",
+        "ipa": "/red/",
+        "meaning": "n. 红色",
+        "audio": "assets/words/red.aac"
+      },
+      {
+        "word": "egg",
+        "ipa": "/eg/",
+        "meaning": "n. 蛋",
+        "audio": "assets/words/egg.aac"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "symbol": "/æ/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_5.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_09_Sub_01.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_09_Sub_01.jpg",
+    "examples": []
+  },
+  {
+    "id": 9,
+    "symbol": "/ə/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_6.aac",
+    "video": "assets/vowel_video/e.mp4",
+    "poster": "assets/vowel_video/e.jpg",
+    "examples": [
+      {
+        "word": "center",
+        "ipa": "/sentə/",
+        "meaning": "n. 中心",
+        "audio": "assets/words/center.aac"
+      },
+      {
+        "word": "panda",
+        "ipa": "/pændə/",
+        "meaning": "n. 熊猫",
+        "audio": "assets/words/panda.aac"
+      },
+      {
+        "word": "actor",
+        "ipa": "/æktə/",
+        "meaning": "n. 男演员",
+        "audio": "assets/words/actor.aac"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "symbol": "/ʌ/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_7.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_10_1.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_10_1.jpg",
+    "examples": [
+      {
+        "word": "cup",
+        "ipa": "/kʌp/",
+        "meaning": "n. 杯子",
+        "audio": "assets/words/cup.aac"
+      },
+      {
+        "word": "bus",
+        "ipa": "/bʌs/",
+        "meaning": "n. 公共汽车",
+        "audio": "assets/words/bus.aac"
+      },
+      {
+        "word": "sun",
+        "ipa": "/sʌn/",
+        "meaning": "n. 太阳",
+        "audio": "assets/words/sun.aac"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "symbol": "/ɒ/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_8.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_12.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_12.jpg",
+    "examples": [
+      {
+        "word": "dog",
+        "ipa": "/dɒg/",
+        "meaning": "n. 狗",
+        "audio": "assets/words/dog.aac"
+      },
+      {
+        "word": "box",
+        "ipa": "/bɒks/",
+        "meaning": "n. 箱",
+        "audio": "assets/words/box.aac"
+      },
+      {
+        "word": "stop",
+        "ipa": "/stɒp/",
+        "meaning": "vi. 停止",
+        "audio": "assets/words/stop.aac"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "symbol": "/ʊ/",
+    "category": "short_vowel",
+    "categoryName": "短元音",
+    "group": "元音",
+    "audio": "assets/vowel/short_vowel_9.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_03.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_03.jpg",
+    "examples": []
+  },
+  {
+    "id": 13,
+    "symbol": "/eɪ/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_ei.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_14_1.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_14_1.jpg",
+    "examples": [
+      {
+        "word": "wait",
+        "ipa": "/weɪt/",
+        "meaning": "vt. 等候",
+        "audio": "assets/words/wait.aac"
+      },
+      {
+        "word": "late",
+        "ipa": "/leɪt/",
+        "meaning": "adj. 晚的",
+        "audio": "assets/words/late.aac"
+      },
+      {
+        "word": "hate",
+        "ipa": "/heɪt/",
+        "meaning": "vt. 憎恨",
+        "audio": "assets/words/hate.aac"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "symbol": "/aɪ/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_1.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_19.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_19.jpg",
+    "examples": [
+      {
+        "word": "my",
+        "ipa": "/maɪ/",
+        "meaning": "pron. 我的",
+        "audio": "assets/words/my.aac"
+      },
+      {
+        "word": "why",
+        "ipa": "/waɪ/",
+        "meaning": "adv. 为什么",
+        "audio": "assets/words/why.aac"
+      },
+      {
+        "word": "write",
+        "ipa": "/raɪt/",
+        "meaning": "vi. 写",
+        "audio": "assets/words/write.aac"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "symbol": "/ɔɪ/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_4.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_16.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_16.jpg",
+    "examples": [
+      {
+        "word": "noise",
+        "ipa": "/nɔɪz/",
+        "meaning": "n. 噪音",
+        "audio": "assets/words/noise.aac"
+      },
+      {
+        "word": "point",
+        "ipa": "/pɔɪnt/",
+        "meaning": "n. 得分",
+        "audio": "assets/words/point.aac"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "symbol": "/aʊ/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_2.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_20.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_20.jpg",
+    "examples": []
+  },
+  {
+    "id": 17,
+    "symbol": "/əʊ/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_5.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_17.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_17.jpg",
+    "examples": [
+      {
+        "word": "pose",
+        "ipa": "/pəʊz/",
+        "meaning": "n. 姿势",
+        "audio": "assets/words/pose.aac"
+      },
+      {
+        "word": "mode",
+        "ipa": "/məʊd/",
+        "meaning": "n. 模式",
+        "audio": "assets/words/mode.aac"
+      },
+      {
+        "word": "know",
+        "ipa": "/nəʊ/",
+        "meaning": "vt. 知道",
+        "audio": "assets/words/know.aac"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "symbol": "/ɪə/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_6.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_13.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_13.jpg",
+    "examples": [
+      {
+        "word": "beer",
+        "ipa": "/bɪə/",
+        "meaning": "n. 啤酒",
+        "audio": "assets/words/beer.aac"
+      },
+      {
+        "word": "mere",
+        "ipa": "/mɪə/",
+        "meaning": "n. 小湖",
+        "audio": "assets/words/mere.aac"
+      },
+      {
+        "word": "deer",
+        "ipa": "/dɪə/",
+        "meaning": "n. 鹿",
+        "audio": "assets/words/deer.aac"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "symbol": "/eə/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_3.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_18.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_18.jpg",
+    "examples": [
+      {
+        "word": "bear",
+        "ipa": "/beə/",
+        "meaning": "n. 熊",
+        "audio": "assets/words/bear.aac"
+      },
+      {
+        "word": "wear",
+        "ipa": "/weə/",
+        "meaning": "n. 衣物",
+        "audio": "assets/words/wear.aac"
+      },
+      {
+        "word": "fare",
+        "ipa": "/feə/",
+        "meaning": "n. 票价",
+        "audio": "assets/words/fare.aac"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "symbol": "/ʊə/",
+    "category": "diphthong",
+    "categoryName": "双元音",
+    "group": "元音",
+    "audio": "assets/vowel/two_vowel_7.aac",
+    "video": "assets/vowel_video/videoplayback_Sub_15.mp4",
+    "poster": "assets/vowel_video/videoplayback_Sub_15.jpg",
+    "examples": []
+  },
+  {
+    "id": 21,
+    "symbol": "/p/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_p.aac",
+    "video": "assets/vowel_video/p.mp4",
+    "poster": "assets/vowel_video/p.jpg",
+    "examples": [
+      {
+        "word": "sip",
+        "ipa": "/sɪp/",
+        "meaning": "v. 小口喝",
+        "audio": "assets/words/sip.aac"
+      },
+      {
+        "word": "put",
+        "ipa": "/pʊt/",
+        "meaning": "vt. 放",
+        "audio": "assets/words/put.aac"
+      },
+      {
+        "word": "cup",
+        "ipa": "/kʌp/",
+        "meaning": "n. 杯子",
+        "audio": "assets/words/cup.aac"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "symbol": "/t/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_t.aac",
+    "video": "assets/vowel_video/t.mp4",
+    "poster": "assets/vowel_video/t.jpg",
+    "examples": [
+      {
+        "word": "tomorrow",
+        "ipa": "/təˈmɒrəʊ/",
+        "meaning": "n. 明天",
+        "audio": "assets/words/tomorrow.aac"
+      },
+      {
+        "word": "today",
+        "ipa": "/təˈdeɪ/",
+        "meaning": "n. 今天",
+        "audio": "assets/words/today.aac"
+      },
+      {
+        "word": "top",
+        "ipa": "/tɒp/",
+        "meaning": "n. 顶部",
+        "audio": "assets/words/top.aac"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "symbol": "/k/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_k.aac",
+    "video": "assets/vowel_video/k.mp4",
+    "poster": "assets/vowel_video/k.jpg",
+    "examples": [
+      {
+        "word": "cat",
+        "ipa": "/kæt/",
+        "meaning": "n. 猫",
+        "audio": "assets/words/cat.aac"
+      },
+      {
+        "word": "cup",
+        "ipa": "/kʌp/",
+        "meaning": "n. 杯子",
+        "audio": "assets/words/cup.aac"
+      },
+      {
+        "word": "card",
+        "ipa": "/kɑːd/",
+        "meaning": "n. 卡片",
+        "audio": "assets/words/card.aac"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "symbol": "/f/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_f.aac",
+    "video": "assets/vowel_video/f.mp4",
+    "poster": "assets/vowel_video/f.jpg",
+    "examples": [
+      {
+        "word": "fish",
+        "ipa": "/fɪʃ/",
+        "meaning": "n. 鱼",
+        "audio": "assets/words/fish.aac"
+      },
+      {
+        "word": "free",
+        "ipa": "/friː/",
+        "meaning": "adv. 免费的",
+        "audio": "assets/words/free.aac"
+      },
+      {
+        "word": "floor",
+        "ipa": "/flɔː/",
+        "meaning": "n. 地板",
+        "audio": "assets/words/floor.aac"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "symbol": "/s/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_s.aac",
+    "video": "assets/vowel_video/s.mp4",
+    "poster": "assets/vowel_video/s.jpg",
+    "examples": [
+      {
+        "word": "nice",
+        "ipa": "/naɪs/",
+        "meaning": "adj. 美好的",
+        "audio": "assets/words/nice.aac"
+      },
+      {
+        "word": "bus",
+        "ipa": "/bʌs/",
+        "meaning": "n. 公共汽车",
+        "audio": "assets/words/bus.aac"
+      },
+      {
+        "word": "sit",
+        "ipa": "/sɪt/",
+        "meaning": "n. 坐下",
+        "audio": "assets/words/sit.aac"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "symbol": "/∫/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_1.aac",
+    "video": "assets/vowel_video/01.mp4",
+    "poster": "assets/vowel_video/01.jpg",
+    "examples": [
+      {
+        "word": "ship",
+        "ipa": "/ʃɪp/",
+        "meaning": "n. 船",
+        "audio": "assets/words/ship.aac"
+      },
+      {
+        "word": "fish",
+        "ipa": "/fɪʃ/",
+        "meaning": "n. 鱼",
+        "audio": "assets/words/fish.aac"
+      },
+      {
+        "word": "shirt",
+        "ipa": "/ʃɜːt/",
+        "meaning": "n. 衬衫",
+        "audio": "assets/words/shirt.aac"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "symbol": "/θ/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_2.aac",
+    "video": "assets/vowel_video/03.mp4",
+    "poster": "assets/vowel_video/03.jpg",
+    "examples": [
+      {
+        "word": "path",
+        "ipa": "/pɑːθ/",
+        "meaning": "n. 道路",
+        "audio": "assets/words/path.aac"
+      },
+      {
+        "word": "think",
+        "ipa": "/θɪŋk/",
+        "meaning": "vt. 想",
+        "audio": "assets/words/think.aac"
+      },
+      {
+        "word": "math",
+        "ipa": "/mæθ/",
+        "meaning": "n. 数学",
+        "audio": "assets/words/math.aac"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "symbol": "/h/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_h.aac",
+    "video": "assets/vowel_video/h.mp4",
+    "poster": "assets/vowel_video/h.jpg",
+    "examples": [
+      {
+        "word": "hut",
+        "ipa": "/hʌt/",
+        "meaning": "n. 小屋",
+        "audio": "assets/words/hut.aac"
+      },
+      {
+        "word": "hello",
+        "ipa": "/həˈləʊ/",
+        "meaning": "int. 喂",
+        "audio": "assets/words/hello.aac"
+      },
+      {
+        "word": "home",
+        "ipa": "/həʊm/",
+        "meaning": "n. 家",
+        "audio": "assets/words/home.aac"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "symbol": "/t∫/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_6.aac",
+    "video": "assets/vowel_video/05.mp4",
+    "poster": "assets/vowel_video/05.jpg",
+    "examples": [
+      {
+        "word": "chick",
+        "ipa": "/tʃɪk/",
+        "meaning": "n. 小鸡",
+        "audio": "assets/words/chick.aac"
+      },
+      {
+        "word": "coach",
+        "ipa": "/kəʊtʃ/",
+        "meaning": "n. 教练",
+        "audio": "assets/words/coach.aac"
+      },
+      {
+        "word": "rich",
+        "ipa": "/rɪtʃ/",
+        "meaning": "adj. 富有的",
+        "audio": "assets/words/rich.aac"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "symbol": "/ts/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_ts.aac",
+    "video": "assets/vowel_video/ts.mp4",
+    "poster": "assets/vowel_video/ts.jpg",
+    "examples": [
+      {
+        "word": "eats",
+        "ipa": "/iːts/",
+        "meaning": "vt. (第三人称)吃",
+        "audio": "assets/words/eats.aac"
+      },
+      {
+        "word": "cats",
+        "ipa": "/kæts/",
+        "meaning": "n. (复数)猫",
+        "audio": "assets/words/cats.aac"
+      },
+      {
+        "word": "gifts",
+        "ipa": "/gɪfts/",
+        "meaning": "n. (复数)礼物",
+        "audio": "assets/words/gifts.aac"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "symbol": "/tr/",
+    "category": "voiceless",
+    "categoryName": "清辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_tr.aac",
+    "video": "assets/vowel_video/tr.mp4",
+    "poster": "assets/vowel_video/tr.jpg",
+    "examples": [
+      {
+        "word": "track",
+        "ipa": "/træk/",
+        "meaning": "n. 轨道",
+        "audio": "assets/words/track.aac"
+      },
+      {
+        "word": "tree",
+        "ipa": "/triː/",
+        "meaning": "n. 树",
+        "audio": "assets/words/tree.aac"
+      },
+      {
+        "word": "trill",
+        "ipa": "/trɪl/",
+        "meaning": "n. 颤音",
+        "audio": "assets/words/trill.aac"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "symbol": "/b/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_b.aac",
+    "video": "assets/vowel_video/b.mp4",
+    "poster": "assets/vowel_video/b.jpg",
+    "examples": [
+      {
+        "word": "bread",
+        "ipa": "/bred/",
+        "meaning": "n. 面包",
+        "audio": "assets/words/bread.aac"
+      },
+      {
+        "word": "club",
+        "ipa": "/klʌb/",
+        "meaning": "n. 俱乐部",
+        "audio": "assets/words/club.aac"
+      },
+      {
+        "word": "lab",
+        "ipa": "/læb/",
+        "meaning": "n. 实验室",
+        "audio": "assets/words/lab.aac"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "symbol": "/d/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_d.aac",
+    "video": "assets/vowel_video/d.mp4",
+    "poster": "assets/vowel_video/d.jpg",
+    "examples": [
+      {
+        "word": "dog",
+        "ipa": "/dɒg/",
+        "meaning": "n. 狗",
+        "audio": "assets/words/dog.aac"
+      },
+      {
+        "word": "card",
+        "ipa": "/kɑːd/",
+        "meaning": "n. 卡片",
+        "audio": "assets/words/card.aac"
+      },
+      {
+        "word": "bed",
+        "ipa": "/bed/",
+        "meaning": "n. 床",
+        "audio": "assets/words/bed.aac"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "symbol": "/g/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_g.aac",
+    "video": "assets/vowel_video/g.mp4",
+    "poster": "assets/vowel_video/g.jpg",
+    "examples": [
+      {
+        "word": "egg",
+        "ipa": "/eg/",
+        "meaning": "n. 蛋",
+        "audio": "assets/words/egg.aac"
+      },
+      {
+        "word": "dig",
+        "ipa": "/dɪg/",
+        "meaning": "vt. 挖",
+        "audio": "assets/words/dig.aac"
+      },
+      {
+        "word": "gate",
+        "ipa": "/geɪt/",
+        "meaning": "n. 大门",
+        "audio": "assets/words/gate.aac"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "symbol": "/v/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_v.aac",
+    "video": "assets/vowel_video/v.mp4",
+    "poster": "assets/vowel_video/v.jpg",
+    "examples": [
+      {
+        "word": "very",
+        "ipa": "/\\'verɪ/",
+        "meaning": "adv. 非常",
+        "audio": "assets/words/very.aac"
+      },
+      {
+        "word": "dove",
+        "ipa": "/dʌv/",
+        "meaning": "n. 鸽子",
+        "audio": "assets/words/dove.aac"
+      },
+      {
+        "word": "ever",
+        "ipa": "/\\'evə/",
+        "meaning": "adv.曾经",
+        "audio": "assets/words/ever.aac"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "symbol": "/z/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_z.aac",
+    "video": "assets/vowel_video/z.mp4",
+    "poster": "assets/vowel_video/z.jpg",
+    "examples": [
+      {
+        "word": "seize",
+        "ipa": "/siːz/",
+        "meaning": "vt. 抓住",
+        "audio": "assets/words/seize.aac"
+      },
+      {
+        "word": "zero",
+        "ipa": "/\\'zɪərəʊ/",
+        "meaning": "num. 零",
+        "audio": "assets/words/zero.aac"
+      },
+      {
+        "word": "size",
+        "ipa": "/saɪz/",
+        "meaning": "n. 大小",
+        "audio": "assets/words/size.aac"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "symbol": "/ʒ/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_3.aac",
+    "video": "assets/vowel_video/6.mp4",
+    "poster": "assets/vowel_video/6.jpg",
+    "examples": [
+      {
+        "word": "decision",
+        "ipa": "/dɪ'sɪʒ(ə)n/",
+        "meaning": "n. 决定",
+        "audio": "assets/words/decision.aac"
+      },
+      {
+        "word": "television",
+        "ipa": "/ˈtelɪvɪʒn/",
+        "meaning": "n. 电视",
+        "audio": "assets/words/television.aac"
+      },
+      {
+        "word": "leisure",
+        "ipa": "/'leʒə/",
+        "meaning": "n. 闲暇",
+        "audio": "assets/words/leisure.aac"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "symbol": "/ð/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_5.aac",
+    "video": "assets/vowel_video/7.mp4",
+    "poster": "assets/vowel_video/7.jpg",
+    "examples": [
+      {
+        "word": "they",
+        "ipa": "/ðeɪ/",
+        "meaning": "pron. 他们",
+        "audio": "assets/words/they.aac"
+      },
+      {
+        "word": "those",
+        "ipa": "/ðəʊz/",
+        "meaning": "adj. 那些的",
+        "audio": "assets/words/those.aac"
+      },
+      {
+        "word": "other",
+        "ipa": "/'ʌðə/",
+        "meaning": "adj. 其他的",
+        "audio": "assets/words/other.aac"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "symbol": "/r/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_r.aac",
+    "video": "assets/vowel_video/r.mp4",
+    "poster": "assets/vowel_video/r.jpg",
+    "examples": [
+      {
+        "word": "read",
+        "ipa": "/ri:d/",
+        "meaning": "vt. 阅读",
+        "audio": "assets/words/read.aac"
+      },
+      {
+        "word": "grass",
+        "ipa": "/grɑːs/",
+        "meaning": "n. 草",
+        "audio": "assets/words/grass.aac"
+      },
+      {
+        "word": "write",
+        "ipa": "/raɪt/",
+        "meaning": "vt. 写",
+        "audio": "assets/words/write.aac"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "symbol": "/dʒ/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_7.aac",
+    "video": "assets/vowel_video/8.mp4",
+    "poster": "assets/vowel_video/8.jpg",
+    "examples": [
+      {
+        "word": "jam",
+        "ipa": "/dʒæm/",
+        "meaning": "n. 果酱",
+        "audio": "assets/words/jam.aac"
+      },
+      {
+        "word": "bridge",
+        "ipa": "/brɪdʒ/",
+        "meaning": "n. 桥",
+        "audio": "assets/words/bridge.aac"
+      },
+      {
+        "word": "July",
+        "ipa": "/dʒʊˈlaɪ/",
+        "meaning": "n. 七月",
+        "audio": "assets/words/July.aac"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "symbol": "/dz/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_dz.aac",
+    "video": "assets/vowel_video/9.mp4",
+    "poster": "assets/vowel_video/9.jpg",
+    "examples": [
+      {
+        "word": "beds",
+        "ipa": "/bedz/",
+        "meaning": "n. 床上用品(复数)",
+        "audio": "assets/words/beds.aac"
+      },
+      {
+        "word": "adds",
+        "ipa": "/ædz/",
+        "meaning": "vt. 增加(第三人称)",
+        "audio": "assets/words/adds.aac"
+      },
+      {
+        "word": "friends",
+        "ipa": "/frendz/",
+        "meaning": "n. 朋友(复数)",
+        "audio": "assets/words/friends.aac"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "symbol": "/dr/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_dr.aac",
+    "video": "assets/vowel_video/10.mp4",
+    "poster": "assets/vowel_video/10.jpg",
+    "examples": [
+      {
+        "word": "dress",
+        "ipa": "/dres/",
+        "meaning": "n. 连衣裙",
+        "audio": "assets/words/dress.aac"
+      },
+      {
+        "word": "drink",
+        "ipa": "/drɪŋk/",
+        "meaning": "vt. 喝",
+        "audio": "assets/words/drink.aac"
+      },
+      {
+        "word": "dream",
+        "ipa": "/driːm/",
+        "meaning": "n. 梦想",
+        "audio": "assets/words/dream.aac"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "symbol": "/m/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_m.aac",
+    "video": "assets/vowel_video/m.mp4",
+    "poster": "assets/vowel_video/m.jpg",
+    "examples": [
+      {
+        "word": "smart",
+        "ipa": "/smɑːt/",
+        "meaning": "adj. 聪明的",
+        "audio": "assets/words/smart.aac"
+      },
+      {
+        "word": "move",
+        "ipa": "/muːv/",
+        "meaning": "vi. 移动",
+        "audio": "assets/words/move.aac"
+      },
+      {
+        "word": "mud",
+        "ipa": "/mʌd/",
+        "meaning": "n. 泥",
+        "audio": "assets/words/mud.aac"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "symbol": "/n/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_n.aac",
+    "video": "assets/vowel_video/n.mp4",
+    "poster": "assets/vowel_video/n.jpg",
+    "examples": [
+      {
+        "word": "no",
+        "ipa": "/nəʊ/",
+        "meaning": "adv. 不",
+        "audio": "assets/words/no.aac"
+      },
+      {
+        "word": "hunt",
+        "ipa": "/hʌnt/",
+        "meaning": "vt. 打猎",
+        "audio": "assets/words/hunt.aac"
+      },
+      {
+        "word": "find",
+        "ipa": "/faɪnd/",
+        "meaning": "vt. 查找",
+        "audio": "assets/words/find.aac"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "symbol": "/ŋ/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_4.aac",
+    "video": "assets/vowel_video/11.mp4",
+    "poster": "assets/vowel_video/11.jpg",
+    "examples": [
+      {
+        "word": "spring",
+        "ipa": "/sprɪŋ/",
+        "meaning": "n. 春天",
+        "audio": "assets/words/spring.aac"
+      },
+      {
+        "word": "sing",
+        "ipa": "/sɪŋ/",
+        "meaning": "vi. 唱歌",
+        "audio": "assets/words/sing.aac"
+      },
+      {
+        "word": "ink",
+        "ipa": "/ɪŋk/",
+        "meaning": "n. 墨水",
+        "audio": "assets/words/ink.aac"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "symbol": "/l/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_l.aac",
+    "video": "assets/vowel_video/l.mp4",
+    "poster": "assets/vowel_video/l.jpg",
+    "examples": [
+      {
+        "word": "line",
+        "ipa": "/laɪn/",
+        "meaning": "n. 路线",
+        "audio": "assets/words/line.aac"
+      },
+      {
+        "word": "pool",
+        "ipa": "/puːl/",
+        "meaning": "n. 联营",
+        "audio": "assets/words/pool.aac"
+      },
+      {
+        "word": "alive",
+        "ipa": "/ə'laɪv/",
+        "meaning": "adj. 活着的",
+        "audio": "assets/words/alive.aac"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "symbol": "/w/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_w.aac",
+    "video": "assets/vowel_video/w.mp4",
+    "poster": "assets/vowel_video/w.jpg",
+    "examples": [
+      {
+        "word": "work",
+        "ipa": "/wɜːk/",
+        "meaning": "n. 工作",
+        "audio": "assets/words/work.aac"
+      },
+      {
+        "word": "wood",
+        "ipa": "/wʊd/",
+        "meaning": "n. 木材",
+        "audio": "assets/words/wood.aac"
+      },
+      {
+        "word": "what",
+        "ipa": "/wɒt/",
+        "meaning": "pron. 什么",
+        "audio": "assets/words/what.aac"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "symbol": "/j/",
+    "category": "voiced",
+    "categoryName": "浊辅音",
+    "group": "辅音",
+    "audio": "assets/consonant/consonant_j.aac",
+    "video": "assets/vowel_video/j.mp4",
+    "poster": "assets/vowel_video/j.jpg",
+    "examples": [
+      {
+        "word": "yell",
+        "ipa": "/jel/",
+        "meaning": "vi. 大叫",
+        "audio": "assets/words/yell.aac"
+      },
+      {
+        "word": "yak",
+        "ipa": "/jæk/",
+        "meaning": "n. 牦牛",
+        "audio": "assets/words/yak.aac"
+      },
+      {
+        "word": "youth",
+        "ipa": "/juːθ/",
+        "meaning": "n. 青年",
+        "audio": "assets/words/youth.aac"
+      }
+    ]
+  }
+]
