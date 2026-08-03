@@ -90,10 +90,6 @@ voca/
 | Motion | Web Animations API |
 | Testing | Vitest, Vue Test Utils |
 
-## Media Attribution
-
-Pronunciation audio, mouth-shape videos, and example-word content were collected from [yyybabc.com](https://www.yyybabc.com) for personal learning and teaching assistance. Those third-party media assets remain subject to their original rights and are not covered by this repository's software license.
-
 ## License
 
 The source code is licensed under the [MIT License](LICENSE).
